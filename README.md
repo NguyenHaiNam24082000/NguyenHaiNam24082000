@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/NguyenNam2000"><img src="https://api.daily.dev/devcards/e35cd569d494470bbbde7d5156fe6b22.png?r=70d" width="400" alt="Nguyen Hai Nam's Dev Card"/></a>
+<a href="https://app.daily.dev/NguyenNam2000" align="center"><img src="https://github.com/NguyenHaiNam24082000/NguyenHaiNam24082000/blob/main/devcard.svg" width="400" alt="Nguyen Hai Nam's Dev Card"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nam</h1>
 
