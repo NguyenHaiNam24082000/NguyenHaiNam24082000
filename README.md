@@ -1,3 +1,4 @@
+<foreignObject width="100%" height="100%">
 <div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         .relative
@@ -123,3 +124,4 @@
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
 </div>
+</foreignObject>
